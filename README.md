@@ -8,12 +8,12 @@ Lead AI Engineer | GenAI | Agentic AI | Machine Learning | NLP | Computer Vision
 ### 🚀 About Me
 I'm a Lead AI Engineer at **Clarity2Cloud Technologies**, previously Founding Engineer at **Trigear Digital**, where I’ve built:
 
-- ⚡ Intelligent AI agents & GenAI automation platforms  
-- 🧠 LLM-powered systems (RAG, fine-tuning, embeddings, agentic workflows)  
-- 📦 Production-grade AI pipelines integrated with FastAPI, Streamlit & full-stack interfaces  
-- 🔍 Resume AI engines, custom chatbots & scalable ML deployments  
+- ⚡ Intelligent AI agents & conversational AI systems  
+- 🧠 LLM-powered automation (RAG, agent frameworks, embeddings, fine-tuning)  
+- 📦 Production ML pipelines with FastAPI + modern deployment stacks  
+- 🎯 Real-world applications: chatbots, resume intelligence, predictive systems  
 
-I focus on building **real usable AI**, not just models.
+I focus on building **AI that works in production — not just demo material.**
 
 ---
 
@@ -21,26 +21,28 @@ I focus on building **real usable AI**, not just models.
 
 #### 🧠 AI / ML / GenAI
 `Python` • `PyTorch` • `TensorFlow` • `HuggingFace` • `LangChain` • `Transformers`  
-`RAG` • `Agentic AI` • `LLM Fine-tuning` • `NLP` • `Computer Vision`
+`RAG` • `LLM Fine-tuning` • `Agentic AI` • `NLP` • `Computer Vision` • `Chatbots`
 
-#### ⚙️ Backend / Deployment
-`FastAPI` • `Django` • `Docker` • `AWS` • `Lambda` • `EC2` • `S3`  
-`Vector DBs (Pinecone, Weaviate, Milvus, Qdrant)`
+#### ☁️ Cloud & Deployment
+`AWS SageMaker` • `Lambda` • `EC2` • `S3` • `Docker` • `API Gateway` • `KeyCloak` • `IAM`
+
+#### 🔍 Vector Databases
+`Pinecone` • `MongoDB` • `PSQL` • `FAISS`
 
 #### 📦 MLOps
 `MLflow` • `DVC` • `Weights & Biases` • `Airflow`
 
 #### 💻 Software Engineering
-`DSA` • `System Design` • `REST APIs` • `Linux` • `Git`
+`C++` • `DSA` • `System Design` • `REST APIs` • `Git`
 
 ---
 
 ### 🏆 Highlights
 
-- 🔥 Built multiple production AI systems used by real users
-- 🧪 Experienced in fine-tuning transformer models and building agent workflows
-- ⚡ Strong foundation in DSA (LeetCode Top 5%, Codeforces Specialist)
-- ☁️ AWS Certified Cloud Practitioner
+- 🚀 Built multiple deployed AI/LLM systems used in production  
+- 🧪 Experience fine-tuning transformer models and building modular ML pipelines  
+- ⚡ Strong in algorithms & problem-solving (LeetCode Top 5%, Codeforces Specialist)  
+- ☁️ AWS Certified Cloud Practitioner  
 
 ---
 
@@ -53,4 +55,4 @@ I focus on building **real usable AI**, not just models.
 
 ---
 
-⭐ **Feel free to explore my repositories — building AI that actually ships.**
+⭐ **Explore my repositories — building AI that actually ships.**
