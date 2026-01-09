@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi, I'm Himanshu</h1>
 <p align="center">
-Lead AI Engineer | GenAI | Agentic AI | Machine Learning | NLP | Computer Vision
+Founding AI Engineer | GenAI | Agentic AI | Machine Learning | NLP | Computer Vision
 </p>
 
 ---
 
 ### 🚀 About Me
-I'm a Lead AI Engineer at **Clarity2Cloud Technologies**, previously Founding Engineer at **Trigear Digital**, where I’ve built:
+I'm a AI Engineer at **Trigear Digital**, previously ML Engineer at **Wayspire**, where I’ve built:
 
 - ⚡ Intelligent AI agents & conversational AI systems  
 - 🧠 LLM-powered automation (RAG, agent frameworks, embeddings, fine-tuning)  
